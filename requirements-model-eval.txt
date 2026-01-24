@@ -1,0 +1,8 @@
+evaluate
+matplotlib
+numpy
+scipy
+torch
+transformers
+datasets
+sentencepiece
